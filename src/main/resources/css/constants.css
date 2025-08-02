@@ -1,0 +1,37 @@
+/* ===== ESPAÇAMENTOS ===== */
+/* Padding */
+.padding-xxs { -fx-padding: 2px; }
+.padding-xs  { -fx-padding: 4px; }
+.padding-sm  { -fx-padding: 8px; }
+.padding-md  { -fx-padding: 16px; }
+.padding-lg  { -fx-padding: 24px; }
+
+/* Margin */
+.margin-xxs { -fx-margin: 2px; }
+.margin-xs  { -fx-margin: 4px; }
+.margin-sm  { -fx-margin: 8px; }
+.margin-md  { -fx-margin: 16px; }
+.margin-lg  { -fx-margin: 24px; }
+
+
+/* ===== TIPOGRAFIA ===== */
+.font-xxs { -fx-font-size: 10px; }
+.font-xs  { -fx-font-size: 12px; }
+.font-sm  { -fx-font-size: 14px; }
+.font-md  { -fx-font-size: 16px; }
+.font-lg  { -fx-font-size: 20px; }
+.font-xl  { -fx-font-size: 24px; }
+.font-xxl { -fx-font-size: 32px; }
+
+/* ===== CORES ===== */
+.text-dark      { -fx-text-fill: #757575; }
+.text-light     { -fx-text-fill: #FFFFFF; }
+
+/* Background */
+.bg-primary   { -fx-background-color: #D4AF37; }
+.bg-secondary { -fx-background-color: #757575; }
+
+/* Estados */
+.success { -fx-text-fill: #0f9b14ff; }
+.error   { -fx-text-fill: #ea0d0dff; }
+.warning { -fx-text-fill: #ff7707ff; }
